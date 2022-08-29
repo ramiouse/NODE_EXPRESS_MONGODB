@@ -1,0 +1,5 @@
+fungsi builtin "fs"
+fungsi builtin "copyFileSync"
+create package.json (first)
+install module npm "superheroes"
+ 
